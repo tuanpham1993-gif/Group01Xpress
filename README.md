@@ -11,7 +11,7 @@
 4. Đỗ Lê Khôi (Student1704192)
 5. Cu Thien Trung(Student1693577)
 =======================================
-https://github.com/tuanpham1993-gif/Group01Xpress
+https://github.com/tuanpham1993-gif/Group01Xpress/tree/main/Documentations
 =======================================
 Published website: N/A
 =======================================
